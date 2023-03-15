@@ -1,5 +1,5 @@
 # Music Store Data Analysis using SQL
-
+![image](https://user-images.githubusercontent.com/101591950/225241121-3637843a-6225-4504-9ba1-05430c0b2daf.png)
 This repository contains data analysis of a music store dataset using SQL. The dataset contains information about the store's sales, customers, and products.
 
 
